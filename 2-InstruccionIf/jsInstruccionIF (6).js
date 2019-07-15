@@ -17,6 +17,13 @@ function mostrar()
     if(adulto >= 18){
 
         alert("Eres mayor de edad");
+
+    }if((adolescente>=13)&&(adolescente<=)){
+
+        alert("Eres adolescente");
+
+    }else{
+        alert("Eres un niño");
     }
 
     
